@@ -7,7 +7,7 @@ export default function HeroSection() {
         Empower Open Source. Build Together.
       </h1>
       <p className="text-lg md:text-xl lg:text-2xl text-white mt-4 mr-2 md:mt-6 lg:mt-8 underline decoration-secondary underline-offset-8">
-        Open Zone: Connect, Collaborate, Contribute.
+        OpenSourceHub: Connect, Collaborate, Contribute.
       </p>
       <Button
         className="mt-8 text-black bg-secondary border-primary hover:scale-125 hover:bg-secondary transition-transform ease-in-out rounded-full"

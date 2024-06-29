@@ -21,7 +21,7 @@ const Footer = () => {
     >
       <div className="flex-shrink-0 w-96 mx-auto md:mx-0 md:text-left">
         <Link href={"/"} className="text-3xl text-white">
-            OpenZone
+            OpenSourceHub
         </Link>
         <p className="mt-2 text-s text-gray-400">
           Discover, Contribute, Thrive - OpenZone: Your gateway to open-source collaboration. Empowering both seasoned contributors and beginners alike to explore, engage, and make a difference in the world of open-source projects.

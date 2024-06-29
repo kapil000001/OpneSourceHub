@@ -20,7 +20,7 @@ const Navbar = () => {
             <div className="items-center px-4 max-w-screen-xl mx-auto md:flex md:justify-between md:px-8">
                 <div className="flex items-center justify-between py-3 md:py-5 md:block">
                     <Link href="/">
-                        <h1 className="text-3xl font-bold text-primary">OpenZone</h1>
+                        <h1 className="text-3xl font-bold text-primary">OpenSourceHub</h1>
                     </Link>
                     <div className="md:hidden mr-3">
                         <button
